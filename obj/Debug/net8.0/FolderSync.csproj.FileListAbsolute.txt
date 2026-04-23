@@ -1,0 +1,14 @@
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\bin\Debug\net8.0\FolderSync.exe
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\bin\Debug\net8.0\FolderSync.deps.json
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\bin\Debug\net8.0\FolderSync.runtimeconfig.json
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\bin\Debug\net8.0\FolderSync.dll
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\bin\Debug\net8.0\FolderSync.pdb
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.AssemblyInfoInputs.cache
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.AssemblyInfo.cs
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.csproj.CoreCompileInputs.cache
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.dll
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\refint\FolderSync.dll
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.pdb
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.genruntimeconfig.cache
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\ref\FolderSync.dll
