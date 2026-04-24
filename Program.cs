@@ -97,8 +97,11 @@ class Program
             }
         }
 
-        foreach(var dir in Directory.GetDirectories(replica, "*", SearchOption.AllDirectories))
+        foreach(var dir in Directory.GetDirectories(replica, "*", SearchOption.AllDirectories).OrderByDescending(d=>d.Length))
         {
+            if(!Directory.Exists(dir))
+                continue;
+                
             string relativePath = Path.GetRelativePath(replica,dir);
             string sourceDir = Path.Combine(source, relativePath);
 

@@ -12,3 +12,4 @@ C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\refint\FolderSync.dll
 C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.pdb
 C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.genruntimeconfig.cache
 C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\ref\FolderSync.dll
+C:\Users\kubap\OneDrive\Pulpit\FolderSync\obj\Debug\net8.0\FolderSync.sourcelink.json
